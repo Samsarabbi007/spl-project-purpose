@@ -1,0 +1,6 @@
+1.https://en.wikipedia.org/wiki/Banker%27s_algorithm
+2.https://www.studytonight.com/operating-system/bankers-algorithm
+3.https://www.cs.jhu.edu/~yairamir/cs418/os4/sld025.htm
+4.https://www.tutorialspoint.com/operating_system/exercise_on_bankers_algorithm.asp
+5.https://www.youtube.com/watch?v=6VxnOwbHsLo
+6.https://www.youtube.com/watch?v=qFbmgx2HH2g
