@@ -4,3 +4,6 @@
 4.https://www.tutorialspoint.com/operating_system/exercise_on_bankers_algorithm.asp
 5.https://www.youtube.com/watch?v=6VxnOwbHsLo
 6.https://www.youtube.com/watch?v=qFbmgx2HH2g
+7.https://www.geeksforgeeks.org/operating-system-process-management-deadlock-introduction/
+8.https://www.geeksforgeeks.org/deadlock-prevention/
+9.https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html
