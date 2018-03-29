@@ -1,3 +1,5 @@
 1.https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm
 2.https://www.youtube.com/watch?v=RYM3WPzIXFo
-3.ttps://www.youtube.com/watch?v=Ub4VVDGLJx0&t=37s
+3.https://www.geeksforgeeks.org/operating-system-page-replacement-algorithm/
+4.https://www.tutorialspoint.com/operating_system/os_memory_allocation_qa3.htm
+5.http://www.informit.com/articles/article.aspx?p=25260
