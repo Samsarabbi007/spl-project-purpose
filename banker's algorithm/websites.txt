@@ -7,3 +7,7 @@
 7.https://www.geeksforgeeks.org/operating-system-process-management-deadlock-introduction/
 8.https://www.geeksforgeeks.org/deadlock-prevention/
 9.https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html
+10.https://www.youtube.com/watch?v=uOT96Sw2CaY
+11.https://www.youtube.com/watch?v=XpKrBUZqfGI
+12.https://www.youtube.com/watch?v=-iFyn5DvRo0
+13.https://www.youtube.com/watch?v=U6rQp4FyMD4&t=68s
