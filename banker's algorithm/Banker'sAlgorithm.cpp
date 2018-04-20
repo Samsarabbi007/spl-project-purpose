@@ -251,14 +251,15 @@ int main(){
     }
 
     vector<string>:: iterator that;
-    cout<<"The sequence process is:";
+    cout<<"now the safe state is ....."<<endl;
+    cout<<"The sequence process is:"<<endl;
     for(that=vecstr.begin();that!=vecstr.end();that++){
 
         cout<<*that<<endl;
     }
 
     cout<<endl;
-    cout<<"remaining work or available is :"<<endl;
+    cout<<"remaining work or available is :";
 
     for(int i=0;i<resourceNum;i++){
         cout<<available[i]<<"  ";
