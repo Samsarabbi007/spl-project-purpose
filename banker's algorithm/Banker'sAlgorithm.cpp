@@ -15,7 +15,6 @@ string numberToString(int num){
 
 int main(){
 
-    //cout<<numberToString(12)<<endl;
 
     int resourceNum,processNum;
     vector<string>vecstr;
@@ -26,17 +25,17 @@ int main(){
 
     vector<int>store[100];
 
-    cout<<"How many process you need: ";
+    //cout<<"How many process you need: ";
     ifile>>processNum;
 
-    cout<<"How many resource you need: ";
+    //cout<<"How many resource you need: ";
     ifile>>resourceNum;
 
     vector<int>allocation[processNum+1];
     vector<int>maximum[processNum+1];
     vector<int>need[processNum+1];
 
-    cout<<"Input the allocation Number"<<endl;
+  //  cout<<"Input the allocation Number"<<endl;
 
     for(int i=0;i<processNum;i++){
 
@@ -61,7 +60,7 @@ int main(){
      }
     */
 
-    cout<<"Input the maximum number"<<endl;
+   // cout<<"Input the maximum number"<<endl;
 
 
     for(int i=0;i<processNum;i++){
@@ -251,7 +250,7 @@ int main(){
     }
 
     vector<string>:: iterator that;
-    cout<<"now the safe state is ....."<<endl;
+    cout<<"now the state is safe  ....."<<endl;
     cout<<"The sequence process is:"<<endl;
     for(that=vecstr.begin();that!=vecstr.end();that++){
 
